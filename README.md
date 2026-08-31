@@ -13,7 +13,6 @@
 - 💻 Desarrolladora freelance, principalmente en **Fiverr**
 - 📍 Chigorodó, Antioquia, Colombia
 - 🌱 Aprendiendo TypeScript, TailwindCSS, Next.js — avanzando en CS50x de Harvard
-- 🎯 Buscando mi primer rol junior remoto en desarrollo
 
 ---
 
