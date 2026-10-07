@@ -11,10 +11,9 @@
 
 ### Sobre mí
 
-- 💻 Desarrolladora freelance en **Fiverr**.
-- 🎓 Estudiante de 5.º semestre de **Ingeniería de Software y Datos** en IU Digital de Antioquia.
-- 🔧 Construyo pipelines de datos, modelos analíticos y aplicaciones web: desde un lakehouse en Databricks hasta un mapa 3D interactivo en React.
-- 📍 Medellín, Colombia · Disponible para trabajo remoto.
+Construyo pipelines de datos y el backend que los sostiene, y también disfruto el frontend con React.
+
+Trabajo como freelance en Fiverr desde 2024 y estudio Ingeniería de Software y Datos en IU Digital (5.º semestre). Estoy en Medellín, Colombia, y disponible para trabajo remoto.
 
 ---
 
@@ -22,7 +21,7 @@
 
 | Proyecto | Qué es | Stack | Enlaces |
 |---|---|---|---|
-| **Terrall** | Mapa 3D interactivo de Colombia con datos abiertos de turismo por departamento | React · Three.js · d3-geo · Vite | [Repo](https://github.com/HannaSalinas/terrall) · [Demo](https://hannasalinas.github.io/terrall/) |
+| **Terrall** | Mapa 3D interactivo de Colombia con datos abiertos de turismo y una API REST propia | React · Three.js · NestJS · PostgreSQL | [Repo](https://github.com/HannaSalinas/terrall) · [Demo](https://hannasalinas.github.io/terrall/) |
 | **Wanderbricks Lakehouse** | Arquitectura medallón (bronce, plata, oro) con gobierno en Unity Catalog, Jobs y optimización de joins | Databricks · PySpark · Delta Lake | [Repo](https://github.com/HannaSalinas/wanderbricks-lakehouse-databricks) |
 | **TalentCorp HR Data Warehouse** | Data warehouse de RRHH: OLTP, modelo estrella, ETL con SCD Tipo 2, seguridad por filas y 15 KPIs | SQL Server · T-SQL · Docker | [Repo](https://github.com/HannaSalinas/talentcorp-hr-data-warehouse) |
 | **Sistema académico en MongoDB** | Validación con JSON Schema, CRUD, transacciones multi-documento y reportes con agregaciones | MongoDB · mongosh | [Repo](https://github.com/HannaSalinas/mongodb-academic-system) |
@@ -38,13 +37,16 @@
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-**Aprendiendo:** TypeScript · NestJS · Next.js · TailwindCSS · CS50x de Harvard
+**Aprendiendo:** Next.js · TailwindCSS · despliegue en AWS · CS50x de Harvard
