@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://hannasalinas.github.io/">Portafolio</a> ·
-  <a href="https://linkedin.com/in/hannacontreras">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/hanna-salinas">LinkedIn</a> ·
   <a href="mailto:salinashanna123@gmail.com">Email</a>
 </p>
 
@@ -30,6 +30,15 @@ Trabajo como freelance en Fiverr desde 2024 y estudio Ingeniería de Software y 
 
 ---
 
+### Open source
+
+Contribuciones fusionadas en [libredb/libredb-studio](https://github.com/libredb/libredb-studio), un IDE de SQL de código abierto:
+
+- [#1622](https://github.com/libredb/libredb-studio/pull/1622) · docs(postgres): elimina dos conteos de proveedores desactualizados
+- [#1662](https://github.com/libredb/libredb-studio/pull/1662) · docs(readme-es): sincroniza el párrafo de seguridad de transporte y la fila de Db2 LUW
+
+---
+
 ### Tecnologías que uso en mis proyectos
 
 <p align="left">
@@ -37,6 +46,7 @@ Trabajo como freelance en Fiverr desde 2024 y estudio Ingeniería de Software y 
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
@@ -47,6 +57,7 @@ Trabajo como freelance en Fiverr desde 2024 y estudio Ingeniería de Software y 
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-**Aprendiendo:** Next.js · TailwindCSS · despliegue en AWS · CS50x de Harvard
+**Aprendiendo:** JavaScript (fundamentos y async) · Node.js y Express · inglés
